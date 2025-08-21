@@ -44,8 +44,9 @@ Power BI Dashboard for interactive and dynamic exploration
 ---
 ## Dashboard Snapshots
 🔹 Power BI Dashboard
-
+![Power BI Dashboard](blinkit_powerbi_dashboard.png)
 🔹 Excel Dashboard
+![Excel Dashboard](blinkit_excel_dashboard.png)
 
 ---
 ## Insights 
